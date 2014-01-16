@@ -1,2 +1,2 @@
-bizlocator_specs
+BizLocator Specifications
 ================
